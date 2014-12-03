@@ -15,3 +15,5 @@ authentication check is required then extend the 'Secure_Controller'.
 Note:
 The Secure_Controller uses a session variable named 'logged_in' to check for the availability of a session, you can modify the code
 accordingly.
+
+Replace your controller.php with this file in system/core/
