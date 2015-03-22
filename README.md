@@ -18,4 +18,4 @@ accordingly.
 
 Replace your controller.php with this file in system/core/ .
 
-Happy coding!
+Happy coding!!!
