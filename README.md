@@ -17,3 +17,5 @@ The Secure_Controller uses a session variable named 'logged_in' to check for the
 accordingly.
 
 Replace your controller.php with this file in system/core/ .
+
+Happy coding!
